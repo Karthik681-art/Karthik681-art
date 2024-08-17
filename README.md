@@ -5,4 +5,3 @@
 - 📫 How to reach me karthikpilli241@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ moto:looking forward for collaborate
-- linkedin:karthik pilli
