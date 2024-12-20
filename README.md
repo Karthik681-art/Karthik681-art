@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthikpilli
-- 👀 I’m interested in python,java,datascience
+- 👀 I’m interested in python,datascience
 - 🌱 I’m currently learning data structer
 - 💞️ I’m looking to collaborate on internships and projects too
 - 📫 How to reach me karthikpilli241@gmail.com
