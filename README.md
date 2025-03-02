@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Karthikpilli
-- 👀 I’m interested in python,datascience
-- 🌱 I’m currently learning data structer
+- 👋 Hi, I’m Karthik Pilli
+- 👀 I’m interested in Python,DataScience
+- 🌱 I’m currently learning Data structures
 - 💞️ I’m looking to collaborate on internships and projects too
 - 📫 How to reach me karthikpilli241@gmail.com
 - 😄 Pronouns:He/Him
